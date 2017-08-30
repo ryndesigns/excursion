@@ -1,0 +1,31 @@
+*  {text-align: center;
+  /* "background-color: black;*/
+}
+h1 {/*font-family: verdana;*/
+  /*font-weight: normal;*/
+  font-size: 50px
+  /*color: white;
+  background-color: black;*/
+}
+body {
+  font-family: Verdana, sans-serif;
+    color: white;
+    background-color: black;
+}
+/*link style*/
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+/* subhead style*/
+h2 {
+  font-size: 42px
+  font-weight: 300;
+}
+p{
+color: gray;
+font-size: 21px;
+}
+#copyright {
+  text-align: right;
+}
